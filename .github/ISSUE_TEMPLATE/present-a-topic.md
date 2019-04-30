@@ -18,7 +18,7 @@ Suggest resources you've found helpful and have road-tested
 
 ---
 **Checklist**
-- [ ] You're focusing on your weakest topics. This way the whole team is gaining the most benefits.
+- [ ] You are focusing on unfamiliar topics or going deep on areas of interest that will benefit you and your team.
 - [ ] You'll present it in anyway you like - whiteboard, PowerPoint, purely code, etc...
 - [ ] You'll document the topic and ensure it is self-explanatory. This way developers who haven’t been able to attend can read it whenever they like. 
 - [ ]
