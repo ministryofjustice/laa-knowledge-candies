@@ -17,11 +17,9 @@ Briefly describe how it relates to your work
 ---
 
 ### Before (or soon after!) your talk
-#### Want to find out more
+#### Find out more
 Suggest resources you've found helpful and have road-tested
-
-#### Slides
-Add a link to your slides once they're ready
+Also add links to any slides, code, or other artefacts that you produce for your talk
 
 ### After your talk
 #### Video
